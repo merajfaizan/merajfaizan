@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meraj Faizan</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on [Portfolio Project](https://merajfaizan.vercel.app/)
+- 🔭 I’m currently working on [E-scooter Landing Page](https://github.com/merajfaizan/e-scooter)
 
 - 🌱 I’m currently learning **MERN Stack**
 
