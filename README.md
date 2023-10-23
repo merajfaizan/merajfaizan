@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Meraj Faizan</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh.</h3>
+<h3 align="center">An enthusiastic and skilled full-stack developer, passionate about crafting top-notch solutions.</h3>
 
 - 🔭 I’m currently working on [E-scooter Landing Page](https://github.com/merajfaizan/e-scooter)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://merajfaizan.vercel.app/](https://merajfaizan.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://merajfaizan.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React and Express.JS**
 
 - 📫 How to reach me **merajfzn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11s_aKOTgjJclYSvHn5QlnMGwm0mTzbJU/view](https://drive.google.com/file/d/11s_aKOTgjJclYSvHn5QlnMGwm0mTzbJU/view)
+- 📄 Know about my experiences [explore my resume.](https://drive.google.com/file/d/11s_aKOTgjJclYSvHn5QlnMGwm0mTzbJU/view)
 
 - ⚡ Fun fact **I have never visited Cox's Bazar😐.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/merajfaizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merajfaizan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/merajfaizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merajfaizan" height="30" width="40" /></a>
-<a href="https://fb.com/merajfaizann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="merajfaizann" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/merajfaizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="merajfaizan" height="30" width="40" /></a>
+<a href="https://twitter.com/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merajfaizan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merajfaizan" height="30" width="40" /></a>
+<a href="https://fb.com/merajfaizann" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="merajfaizann" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="merajfaizan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
