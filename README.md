@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Meraj Faizan</h1>
-<h3 align="center">An enthusiastic and skilled full-stack developer, passionate about crafting top-notch solutions.</h3>
+<a href="">
+<img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/banner/Meraj-Faizan.png" />
+</a>
+
+## <img src="https://www.flaticon.com/free-icons/graph" alt="chart-image" /> Current Stats
 
 - 🔭 I’m currently working on [E-scooter Landing Page](https://github.com/merajfaizan/e-scooter)
 
@@ -50,5 +53,5 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
- </p>
 
+ </p>
