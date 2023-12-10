@@ -14,7 +14,9 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merajfaizan&theme=react" />
 </p>
 
-<div style="background-color: #002E44; padding: 1px 5px; border-radius: 5px; ">
+<div style="display: flex; align-items: center; background-color: #002E44; padding: 1px 5px; border-radius: 5px; ">
+
+<div>
 
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/eyes.png" alt="html5" width="20" height="20" /> Overview
 
@@ -31,7 +33,11 @@
 ### 📄 Know about my experiences [explore my resume.](https://drive.google.com/file/d/11s_aKOTgjJclYSvHn5QlnMGwm0mTzbJU/view)
 
 ### ⚡ Fun fact **I have never visited Cox's Bazar😐.**
+</div>
 
+<div>
+<img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/coder-img.png" alt="coder" width="100%" height="100%" />
+</div>
 </div>
 
 <br/>
@@ -76,7 +82,6 @@
 </p>
 
 </div>
-
 
 <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
 
