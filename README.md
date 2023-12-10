@@ -1,5 +1,3 @@
-<div style="background-color: #002E44; padding: 10px; border-radius: 20px; ">
-
 <a href="https://www.linkedin.com/in/merajfaizan/">
 <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/banner/Meraj-Faizan.png" />
 </a>
@@ -15,6 +13,8 @@
 <p align="center">
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merajfaizan&theme=react" />
 </p>
+
+<div style="background-color: #002E44; padding: 1px 5px; border-radius: 5px; ">
 
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/eyes.png" alt="html5" width="20" height="20" /> Overview
 
@@ -32,7 +32,11 @@
 
 ### ⚡ Fun fact **I have never visited Cox's Bazar😐.**
 
+</div>
+
 <br/>
+
+<div style="background-color: #002E44; padding: 1px 5px; border-radius: 5px; ">
 
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/computer.png" alt="html5" width="25" height="20" /> Languages and Tools:
 
@@ -56,6 +60,24 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 </p>
+
+</div>
+
+<br/>
+
+<div style="background-color: #002E44; padding: 1px 5px; border-radius: 5px; ">
+
+## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/mail-box.png" alt="html5" width="25" height="25" /> Connect with me:
+
+<p align="center">
+<a href="https://fb.com/merajfaizann" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="merajfaizann" height="30" width="40" /></a>
+<a href="https://twitter.com/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merajfaizan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merajfaizan" height="30" width="40" /></a>
+</p>
+
+</div>
+
+
 <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
 
 <!-- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> -->
@@ -72,13 +94,3 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
  </p> -->
-
-## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/mail-box.png" alt="html5" width="25" height="25" /> Connect with me:
-
-<p align="center">
-<a href="https://fb.com/merajfaizann" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="merajfaizann" height="30" width="40" /></a>
-<a href="https://twitter.com/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merajfaizan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merajfaizan" height="30" width="40" /></a>
-</p>
-
-</div>
