@@ -14,13 +14,13 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merajfaizan&theme=react" />
 </p>
 
-<div style="display: flex; align-items: center; background-color: #002E44; padding: 1px 5px; border-radius: 5px; ">
-
-<div>
-
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/eyes.png" alt="html5" width="20" height="20" /> Overview
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-### 🔭 I’m currently open for job and doing a Project [E-scooter Landing Page](https://github.com/merajfaizan/e-scooter)
+<!-- Left Side: Text Content -->
+<div style="flex: 1;">
+
+### 🔭 I’m currently open for a job and working on a Project [E-scooter Landing Page](https://github.com/merajfaizan/e-scooter)
 
 ### 🌱 I’m currently learning **NextJS**
 
@@ -35,14 +35,15 @@
 ### ⚡ Fun fact **I have never visited Cox's Bazar😐.**
 </div>
 
-<div>
+  <!-- Right Side: Image -->
+<div style="flex: 1;">
 <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/coder-img.png" alt="coder" width="100%" height="100%" />
 </div>
+
 </div>
 
-<br/>
 
-<div style="background-color: #002E44; padding: 1px 5px; border-radius: 5px; ">
+<br/>
 
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/computer.png" alt="html5" width="25" height="20" /> Languages and Tools:
 
@@ -67,11 +68,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 </p>
 
-</div>
-
 <br/>
-
-<div style="background-color: #002E44; padding: 1px 5px; border-radius: 5px; ">
 
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/mail-box.png" alt="html5" width="25" height="25" /> Connect with me:
 
@@ -81,7 +78,6 @@
 <a href="https://linkedin.com/in/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merajfaizan" height="30" width="40" /></a>
 </p>
 
-</div>
 
 <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
 
