@@ -16,10 +16,9 @@
 
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/eyes.png" alt="html5" width="20" height="20" /> Overview
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<!-- Left Side: Text Content -->
-<div style="flex: 1;">
+<div align="left">
+<img align="right" rc="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/coder-img.png" alt="coder" width="200"/>
+</div>
 
 ### 🔭 I’m currently open for a job and working on a Project [E-scooter Landing Page](https://github.com/merajfaizan/e-scooter)
 
@@ -34,15 +33,6 @@
 ### 📄 Know about my experiences [explore my resume.](https://drive.google.com/file/d/11s_aKOTgjJclYSvHn5QlnMGwm0mTzbJU/view)
 
 ### ⚡ Fun fact **I have never visited Cox's Bazar😐.**
-
-</div>
-
-  <!-- Right Side: Image -->
-<div style="flex: 1;">
-<img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/coder-img.png" alt="coder" width="100%" height="100%" />
-</div>
-
-</div>
 
 <br/>
 
