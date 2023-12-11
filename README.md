@@ -17,7 +17,7 @@
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/eyes.png" alt="html5" width="20" height="20" /> Overview
 
 <div align="left">
-<img align="right" rc="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/coder-img.png" alt="coder" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/coder-img.png" alt="coder" width="50%"/>
 </div>
 
 ### 🔭 I’m currently open for a job and working on a Project [E-scooter Landing Page](https://github.com/merajfaizan/e-scooter)
