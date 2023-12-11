@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/statistics.png" alt="html5" width="20" height="20" /> Current Stats
 
 <p align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=merajfaizan&theme=react&hide_border=true&background=002E44&stroke=0D1117&fire=C9F31D&sideLabels=00F0FF&currStreakNum=C9F31D&ring=C9F31D&currStreakLabel=C9F31D&sideNums=00F0FF" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=merajfaizan&theme=react&hide_border=true&background=002E44&stroke=0D1117&fire=C9F31D&sideLabels=00F0FF&currStreakNum=C9F31D&ring=C9F31D&currStreakLabel=C9F31D&sideNums=00F0FF" alt="github-states" />
 </p>
 
 <br/>
@@ -15,6 +15,7 @@
 </p>
 
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/eyes.png" alt="html5" width="20" height="20" /> Overview
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
 <!-- Left Side: Text Content -->
@@ -33,6 +34,7 @@
 ### 📄 Know about my experiences [explore my resume.](https://drive.google.com/file/d/11s_aKOTgjJclYSvHn5QlnMGwm0mTzbJU/view)
 
 ### ⚡ Fun fact **I have never visited Cox's Bazar😐.**
+
 </div>
 
   <!-- Right Side: Image -->
@@ -41,7 +43,6 @@
 </div>
 
 </div>
-
 
 <br/>
 
@@ -77,7 +78,6 @@
 <a href="https://twitter.com/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merajfaizan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/merajfaizan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merajfaizan" height="30" width="40" /></a>
 </p>
-
 
 <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
 
