@@ -14,6 +14,10 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merajfaizan&theme=react" />
 </p>
 
+<br/>
+
+<a href="https://gitroll.io/profile/uYCZFt1MXNpVoQ91SHpvm6Kt6WLX2" target="_blank"><img width="100%" src="https://gitroll.io/api/badges/profiles/v1/uYCZFt1MXNpVoQ91SHpvm6Kt6WLX2" alt="GitRoll Profile Badge"/></a>
+
 ## 👨‍🎓 About Me
 
 **Meraj Faizan** is a skilled **web developer** from Bangladesh, specializing in the MERN (MongoDB, Express.js, React, Node.js) stack, with a primary focus on frontend development. Known for strengths in punctuality, task management, and leadership, Meraj is an eager learner, always embracing new technologies and staying at the forefront of industry trends. With a commitment to delivering high-quality and visually appealing web applications, Meraj brings a dynamic blend of technical expertise and leadership qualities to every project. His dedication to continuous learning and meticulous approach to task management make him a valuable asset in the fast-paced world of web development.
