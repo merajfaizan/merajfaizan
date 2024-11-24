@@ -28,7 +28,7 @@
 <img align="right" src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/coder-img.png" alt="coder" width="50%"/>
 </div>
 
-### 🔭 I’m currently open for a job and working on a Project [E-scooter Landing Page](https://github.com/merajfaizan/e-scooter)
+### 🔭 I’m currently open for a job 
 
 ### 🌱 I’m currently learning **NextJS**
 
@@ -38,7 +38,7 @@
 
 ### 📫 How to reach me **merajfzn@gmail.com**
 
-### 📄 Know about my experiences [explore my resume.](https://drive.google.com/file/d/11s_aKOTgjJclYSvHn5QlnMGwm0mTzbJU/view)
+### 📄 Know about my experiences [explore my resume.](https://drive.google.com/file/d/17EHvuVkHjAu2SHk7xBMdvnhyJNJeHsbd/view?usp=drive_link)
 
 ### ⚡ Fun fact **I have never visited Cox's Bazar😐.**
 
