@@ -3,7 +3,6 @@
 </a>
 
 ## <img src="https://raw.githubusercontent.com/merajfaizan/merajfaizan/main/assets/section%20icons/statistics.png" alt="html5" width="20" height="20" /> Current Stats
-![merajfaizan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=merajfaizan&theme=vue-dark&hide_border=true)
 <p align="center">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=merajfaizan&theme=react&hide_border=true&background=002E44&stroke=0D1117&fire=C9F31D&sideLabels=00F0FF&currStreakNum=C9F31D&ring=C9F31D&currStreakLabel=C9F31D&sideNums=00F0FF" alt="github-states" />
 </p>
